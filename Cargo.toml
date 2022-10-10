@@ -2,10 +2,16 @@
 name = "monkay"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Sidharth Sahni <sidharthsahniii@email.com>"]
+license = "MIT OR Apache-2.0"
+description = "A cli typing test for all those monkey type addicts"
+readme = "README.md"
+homepage = "https://github.com/deevo-sage/rust-typing-test"
+repository ="https://github.com/deevo-sage/rust-typing-test"
+keywords = ["cli", "typing test", "fun"]
+categories = ["command-line-utilities"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 colored = "2.0.0"
 rand = "0.8.3"
-termion = "1.5.2"

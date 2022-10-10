@@ -127,6 +127,7 @@ pub fn get_result(input: Test, info: Info) -> Result {
             Some(val) => val,
             None => break,
         };
+
         let bool = word == info.words[i];
         if bool {
             correct += 1
