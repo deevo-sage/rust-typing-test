@@ -8,7 +8,7 @@ description = "A cli typing test for all those monkey type addicts"
 readme = "README.md"
 homepage = "https://github.com/deevo-sage/rust-typing-test"
 repository ="https://github.com/deevo-sage/rust-typing-test"
-keywords = ["cli", "typing test", "fun"]
+keywords = ["cli","demo"]
 categories = ["command-line-utilities"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
